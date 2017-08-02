@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="default"><source path="/home/yeekang/Desktop/GridandBean/library/build/intermediates/bundles/default/assets"/></dataSet><dataSet config="main"><source path="/home/yeekang/Desktop/GridandBean/sample/src/main/assets"/><source path="/home/yeekang/Desktop/GridandBean/sample/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/yeekang/Desktop/GridandBean/sample/src/debug/assets"/></dataSet></merger>
