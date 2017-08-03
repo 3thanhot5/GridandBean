@@ -3,6 +3,7 @@ Android GridView with ViewPager
 
 # Credits
 [Jake Wharton](https://github.com/JakeWharton) - Author of [Android ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator)
+
 Shrikant Sonar - Implement [GridView with ViewPager](http://shrikantsonarblogs.blogspot.tw/)
 
 # License
