@@ -15,7 +15,7 @@ import android.widget.TextView;
 public class GridAdapter extends BaseAdapter {
 
     Context context;
-    int images[] = {
+    int page1[] = {
             R.mipmap.ic_launcher,       R.mipmap.ic_launcher,   R.mipmap.ic_launcher,
             R.mipmap.ic_launcher,       R.mipmap.ic_launcher,   R.mipmap.ic_launcher,
             R.mipmap.ic_launcher,       R.mipmap.ic_launcher,   R.mipmap.ic_launcher_round,
@@ -111,7 +111,7 @@ public class GridAdapter extends BaseAdapter {
     }
 
     private void setCatImage(int pos, ViewHolder viewHolder, String catTitle) {
-        viewHolder.imageView.setImageResource(images[pos]);
+        viewHolder.imageView.setImageResource(page1[pos]);
         viewHolder.textTitle.setText(catTitle);
     }
 }

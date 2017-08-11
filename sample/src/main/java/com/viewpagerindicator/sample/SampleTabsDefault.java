@@ -9,7 +9,7 @@ import android.support.v4.view.ViewPager;
 import com.viewpagerindicator.TabPageIndicator;
 
 public class SampleTabsDefault extends FragmentActivity {
-    private static final String[] CONTENT = new String[] { "Recent", "Artists", "Albums", "Songs", "Playlists", "Genres" };
+    private static final String[] CONTENT = new String[] { "Recent", "Artists"};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
