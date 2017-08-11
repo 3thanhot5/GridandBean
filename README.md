@@ -1,7 +1,7 @@
 # GridandBean
 Android GridView with ViewPagerIndicator
 
-Circle/Default Indicator
+Tab/Default Indicator
 # Credits
 [Jake Wharton](https://github.com/JakeWharton) - Author of [Android ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator)
 
